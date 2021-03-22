@@ -803,6 +803,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Office",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1551,6 +1557,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":896,
          "tileheight":32,
@@ -1577,6 +1589,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Outdoor",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
