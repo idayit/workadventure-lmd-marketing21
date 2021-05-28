@@ -549,7 +549,7 @@
                          "value":"https:\/\/www.idayit.com\/financeroom"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -567,7 +567,7 @@
                          "value":"https:\/\/www.idayit.com\/financeroom"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -575,7 +575,7 @@
          "name":"Stream rooms",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
