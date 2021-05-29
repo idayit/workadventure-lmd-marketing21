@@ -339,7 +339,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.idayit.com\/"
+                         "value":"https:\/\/training.idayit.com\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
