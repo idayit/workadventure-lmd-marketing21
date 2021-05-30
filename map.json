@@ -104,7 +104,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.idayit.com\/"
+                         "value":"https:\/\/www.impactmedias.ch"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -380,7 +380,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/idayit.zoholandingpage.com\/my-workspace\/iDAYit-Studio-Z\/"
+                         "value":"https:\/\/booknow.idayit.com\/portal-embed#\/customer\/3259768000000822080"
                         }],
                  "type":"tilelayer",
                  "visible":true,
